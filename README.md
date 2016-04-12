@@ -1,6 +1,6 @@
 # LeaveSystem
 
-Run the program:
+Run the program:  
 In command line, first use `cd' command to change the path to where the file stored.
 Then run :
 $ java -jar LeaveSystemApplication.jar
