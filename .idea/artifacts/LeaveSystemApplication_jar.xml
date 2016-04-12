@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LeaveSystemApplication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LeaveSystemApplication_jar</output-path>
+    <root id="archive" name="LeaveSystemApplication.jar">
+      <element id="module-output" name="LeaveSystemApplication" />
+    </root>
+  </artifact>
+</component>
